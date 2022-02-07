@@ -1,0 +1,2 @@
+# intelygenz
+Intelygenz News Reader
